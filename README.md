@@ -2,8 +2,6 @@
 
 A machine learning project that compares five regression models for predicting residential listing prices in the 2024 Texas housing market. Built as the final project for **CSCI-497 (AI and Data Science)** at Texas A&M University-Commerce.
 
-**Team:** Jeremy Freyman and Riya Bhusal
-
 ## Overview
 
 Predicting housing prices is a classic regression problem. We wanted to know whether more complex models would actually beat a simple baseline when the dataset is small (500 listings) and key information like exact location is missing.
